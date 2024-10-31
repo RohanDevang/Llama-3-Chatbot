@@ -1,0 +1,12 @@
+os-sys
+ipykernel
+pandas
+numpy
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+groq
+llama
+llama-models
+streamlit
