@@ -1,4 +1,3 @@
---upgrade pip
 os-sys
 ipykernel
 pandas
